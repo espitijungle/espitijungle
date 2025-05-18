@@ -30,12 +30,12 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=espitijungle&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ### 🔗 Projects & Links
 
-- 🔗 [UDL Assignments](https://racinggp.ddns.net/login/auth)
+- 🔗 [RacingGP](https://racinggp.ddns.net/login/auth)
 - 📂 [My Portfolio](https://github.com/espitijungle/portfolio)
 
 
